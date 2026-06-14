@@ -8,7 +8,11 @@ Footer: OpenDrones - Molt Studios | XIAO ESP32-S3 Sensor Dashboard
 
 ## Dashboard
 
+![Dashboard Telemetry](docs/images/dashboard-telemetry-sm.jpg)
+
 The Nav Module hosts a WiFi web server with a real-time telemetry dashboard. The UI uses a glassmorphism design - semi-transparent frosted-glass cards on a dark navy-to-blue gradient background. Fully responsive for phones, tablets, and desktops.
+
+![USB Host Dashboard](docs/images/dashboard-usb-host-sm.jpg)
 
 ### Dashboard Cards
 
@@ -42,6 +46,8 @@ The Nav Module hosts a WiFi web server with a real-time telemetry dashboard. The
 - **Real-time WebSocket Telemetry** - Dashboard updates at 10Hz with zero-page-reload streaming. Multiple clients supported simultaneously.
 
 ## Hardware
+
+![Drone Hardware](docs/images/drone-hardware-sm.jpg)
 
 | Component | Model | Interface |
 |-----------|-------|----------|
